@@ -1,10 +1,10 @@
 # LOXIA
 <div align="center">
-  <a href="https://github.com/hackinter/Archer/releases">
+  <a href="https://github.com/INTELEON404/LOXIA/releases">
     <img src="https://img.shields.io/badge/Version-2.0.-blue.svg" alt="Version">
   </a>
   <a href="https://github.com/hackinter">
-    <img src="https://img.shields.io/badge/GITHUB-HACKINTER-red.svg" alt="GitHub">
+    <img src="https://img.shields.io/badge/GITHUB-INTELEON404-red.svg" alt="GitHub">
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/hackinter/LOXIA.git
+   git clone https://github.com/INTELEON404/LOXIA.git
    cd LOXIA
    ```
 
@@ -109,7 +109,7 @@ We welcome contributions! To contribute:
 4. 📤 Submit a pull request.
 
 ## License 📜
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/hackinter/oneclick/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/INTELEON404/oneclick/blob/main/LICENSE) file for more details.
 
 ## Contributing 🤝
 We welcome contributions! If you would like to contribute, feel free to fork the repository and submit a pull request. If you encounter any bugs or have suggestions, please open an issue.
@@ -117,9 +117,9 @@ We welcome contributions! If you would like to contribute, feel free to fork the
 ## Contact 📧
 For any queries or issues, feel free to reach out to us:
 
-[![Email](https://img.shields.io/badge/HACKINTER-MAIL-red.svg)](mailto:ceh.ec.counselor147@gmail.com)  
-[![Telegram](https://img.shields.io/badge/HACKINTER-T.ME-blue.svg)](https://t.me/chat_with_hackinter_bot)  
-[![Twitter](https://img.shields.io/badge/HACKINTER-TWITTER-black.svg)](https://x.com/_anonix_z)
+[![Email](https://img.shields.io/badge/INTELEON404-MAIL-red.svg)](mailto:ceh.ec.counselor147@gmail.com)  
+[![Telegram](https://img.shields.io/badge/INTELEON404-T.ME-blue.svg)](https://t.me/chat_with_hackinter_bot)  
+[![Twitter](https://img.shields.io/badge/INTELEON404-TWITTER-black.svg)](https://x.com/_anonix_z)
 
 
 
