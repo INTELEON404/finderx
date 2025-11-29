@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/INTELEON404/Template/blob/main/finderX.png" alt="Logo" />
+</div>
+
 # FINDER'X
 <div align="center">
   <a href="https://github.com/INTELEON404/FINDERX/releases">
