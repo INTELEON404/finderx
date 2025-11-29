@@ -5,7 +5,7 @@
 # FINDER'X
 <div align="center">
   <a href="https://github.com/INTELEON404/FINDERX/releases">
-    <img src="https://img.shields.io/badge/Version-12.0%20Ultimate-blue.svg" alt="Version">
+    <img src="https://img.shields.io/badge/Version-v2.3.1-blue.svg" alt="Version">
   </a>
   <a href="https://github.com/INTELEON404">
     <img src="https://img.shields.io/badge/GITHUB-INTELEON404-red.svg" alt="GitHub">
@@ -15,7 +15,7 @@
   </a>
 </div>
 
-**FINDER'X v12.0 Ultimate** is an advanced, automated vulnerability scanner designed for detecting Cross-Site Scripting (XSS) and other web vulnerabilities. It features a robust engine capable of crawling, bypassing WAFs, and verifying vulnerabilities using a headless browser to reduce false positives.
+**FINDER'X v2.3.1 Ultimate** is an advanced, automated vulnerability scanner designed for detecting Cross-Site Scripting (XSS) and other web vulnerabilities. It features a robust engine capable of crawling, bypassing WAFs, and verifying vulnerabilities using a headless browser to reduce false positives.
 
 ## Features 🚀
 
