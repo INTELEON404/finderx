@@ -42,9 +42,11 @@
 2.  **Install the Dependencies**:
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirements.txt --break-system-packages
+```
     # Or manually:
-    pip install requests selenium
+```
+    pip install requests selenium --break-system-packages
     ```
 
 ## Usage
