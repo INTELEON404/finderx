@@ -41,7 +41,8 @@
 
    ```bash
    git clone https://github.com/INTELEON404/FINDERX.git
-   cd FINDERX ```
+   cd FINDERX
+   ```
 
 2.  **Install the Dependencies**:
 
