@@ -48,7 +48,9 @@
 
     ```bash
     pip install -r requirements.txt
-    # Or manually:
+    ```
+    #### Or manually:
+    ```
     pip install requests selenium
     ```
 
